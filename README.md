@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Code test
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Description
 
-Try running some of the following tasks:
+This is a code test for a job interview.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+Run the `npm install` command to install the dependencies. Then run the `npm test` command to run the tests.
